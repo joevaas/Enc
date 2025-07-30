@@ -127,12 +127,12 @@ async def start(event, args, client):
             [Button.inline("Help", data="ihelp")],
             [
                 Button.url(
-                    "Source-Code (Original)",
-                    url="github.com/1Danish-00/compressorqueue",
+                    "Main Channel",
+                    url="https://t.me/Anime_Tamil_Hub",
                 ),
-                Button.url("Developer (Original)", url="t.me/danish_00"),
+                Button.url("Developer", url="http://t.me/Tamil_Aime_Files"),
             ],
-            [Button.url("Fork Maintainer", url="t.me/Col_serra")],
+            [Button.url("Fork Maintainer", url="http://t.me/Universe_Walker_Zoro")],
         ],
     )
 
@@ -180,12 +180,12 @@ async def beck(event):
             [Button.inline("Help", data="ihelp")],
             [
                 Button.url(
-                    "Source-Code (Original)",
-                    url="github.com/1Danish-00/compressorqueue",
+                    "Main Channel",
+                    url="https://t.me/Anime_Tamil_Hub",
                 ),
-                Button.url("Developer (Original)", url="t.me/danish_00"),
+                Button.url("Developer", url="http://t.me/Tamil_Aime_Files"),
             ],
-            [Button.url("Fork Maintainer", url="t.me/Col_serra")],
+            [Button.url("Fork Maintainer", url="http://t.me/Universe_Walker_Zoro")],
         ],
     )
 
